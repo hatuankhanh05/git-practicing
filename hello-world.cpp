@@ -5,7 +5,7 @@ using namespace std;
 #define ld long double
 
 void solve() {
-    cout << "Hello world!";
+    cout << "Oh my god!";
 }
 
 int main() {
